@@ -16,5 +16,5 @@ Header.defaultProps = {
   // title: "🏗 scaffold-eth",
   title: "Tai-Shang-DAO-NFT-Manager",
   // subTitle: "forkable Ethereum dev stack focused on fast product iteration",
-  subTitle: "tai-shang-dao-nft-manager",
+  subTitle: "the manager of DAO-NFT which working for WeLight Community",
 };
